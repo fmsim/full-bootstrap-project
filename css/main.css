@@ -1,0 +1,19 @@
+body{
+  font-family: "Freckle Face", cursive;
+}
+/** COLORS **/
+.primary-background-color{
+  background-color: #f15025;
+}
+.primary-color{
+  color: #f15025;
+}
+/** END OF COLORS **/
+/** VIEWPORT CLASSES **/
+.max-viewport{
+  min-height: 100vh;
+}
+.viewport-60{
+  min-height: 60vh;
+}
+/** END OF VIEWPORT CLASSES **/
