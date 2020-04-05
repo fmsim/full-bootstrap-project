@@ -17,3 +17,8 @@ body{
   min-height: 60vh;
 }
 /** END OF VIEWPORT CLASSES **/
+/** FILLER SECTION 2 **/
+#filler-2{
+  background-image: linear-gradient(rgba(241, 80, 37, .9), rgba(0, 0, 0, .3));
+}
+/** END OF FILLER SECTION 2 **/
