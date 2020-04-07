@@ -22,3 +22,12 @@ body{
   background-image: linear-gradient(rgba(241, 80, 37, .9), rgba(0, 0, 0, .3));
 }
 /** END OF FILLER SECTION 2 **/
+/** FILLER SECTION 3 **/
+#filler-3{
+  background-image: linear-gradient(to left, rgba(0, 0, 0, .9), rgba(0, 0, 0, .3)), url('../images/projects-1.jpeg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+/** FILLER SECTION 3 **/
