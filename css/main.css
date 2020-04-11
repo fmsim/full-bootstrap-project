@@ -41,3 +41,15 @@ body{
   color: #2d3142;
 }
 /** END OF BASIC CARDS SECTION **/
+/** BACKGROUND PHOTO SECTION **/
+#background-photo{
+  background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/projects-1.jpeg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.paragraph-color{
+  color: #ced0ce;
+}
+/** END OF BACKGROUND PHOTO SECTION **/
