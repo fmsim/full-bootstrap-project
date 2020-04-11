@@ -31,3 +31,13 @@ body{
   background-repeat: no-repeat;
 }
 /** FILLER SECTION 3 **/
+/** BASIC CARDS SECTION **/
+.title-underline{
+  width: 6.25rem;
+  border: .125rem solid #f15025;
+  margin: 0 auto;
+}
+.title-color{
+  color: #2d3142;
+}
+/** END OF BASIC CARDS SECTION **/
