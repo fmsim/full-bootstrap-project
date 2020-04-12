@@ -68,3 +68,8 @@ body{
   background-color: rgba(0, 0, 0, .8);
 }
 /** END OF BANNER FORM SECTION **/
+/** ABOUT PHOTO SECTION **/
+.no-padding{
+  padding: 0;
+}
+/** END OF ABOUT PHOTO SECTION **/
