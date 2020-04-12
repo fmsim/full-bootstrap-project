@@ -53,3 +53,18 @@ body{
   color: #ced0ce;
 }
 /** END OF BACKGROUND PHOTO SECTION **/
+/** BANNER FORM SECTION **/
+#banner-form{
+  background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/projects-1.jpeg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#banner-form .card{
+  background-color: rgba(0, 0, 0, .5);
+}
+#banner-form .card:hover{
+  background-color: rgba(0, 0, 0, .8);
+}
+/** END OF BANNER FORM SECTION **/
