@@ -73,3 +73,34 @@ body{
   padding: 0;
 }
 /** END OF ABOUT PHOTO SECTION **/
+/** BANNER FORM 2 **/
+#banner-form-2{
+  background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/projects-1.jpeg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#banner-form-2 .form-control{
+  background-color: transparent;
+  font-size: 2.5em;
+  border: none;
+  border-radius: 0;
+  border-bottom: 3px solid #fff;
+}
+#banner-form-2 .form-btn{
+  background-color: transparent;
+  color: #f15025;
+  font-size: 2.5em;
+  border-radius: 0;
+  border: 3px solid #fff;
+}
+#banner-form-2 .form-btn:hover{
+  background-color: #f15025;
+  color: #ced0ce;
+  border: 3px solid #f15025;
+}
+#banner-form-2 input::placeholder{
+  color: #f15025;
+}
+/** END OF BANNER FORM 2 **/
