@@ -104,3 +104,23 @@ body{
   color: #f15025;
 }
 /** END OF BANNER FORM 2 **/
+/** MASONRY IMAGE SECTION **/
+#masonry-images .img-container{
+  background-color: rgba(o, 0, 0, .7);
+  position: relative;
+}
+#masonry-images .img-container:hover img{
+  opacity: .5;
+}
+#masonry-images .img-container .fas{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 3rem;
+  transform: translate(-50%, -50%);
+  visibility: hidden;
+}
+#masonry-images .img-container:hover .fas{
+  visibility: visible;
+}
+/** END OF MASONRY IMAGE SECTION **/
