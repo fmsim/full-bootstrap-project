@@ -124,3 +124,11 @@ body{
   visibility: visible;
 }
 /** END OF MASONRY IMAGE SECTION **/
+/** PRICING CARD SECTION **/
+#pricing-cards{
+  background-color: #f15025;
+}
+#pricing-cards .first{
+  border: none;
+}
+/** END OF PRICING CARD SECTION **/
