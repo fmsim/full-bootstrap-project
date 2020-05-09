@@ -132,3 +132,27 @@ body{
   border: none;
 }
 /** END OF PRICING CARD SECTION **/
+/** SECOND SKILLS SECTION **/
+#skills-2 .far,
+#skills-2 .fas{
+  background-color: #353531;
+  color: #f15025;
+  padding: 1em;
+  border-radius: 50%;
+  font-size: 1.5rem;
+}
+#skills-2 hr{
+  margin-top: -2.4375rem;
+  margin-right: 10em;
+  border: .1875rem solid #353531;
+  width: 150%;
+}
+#skills-2 .hr-1{
+  width: 100%;
+  margin-left: 9.55em;
+}
+#skills-2 .hr-2{
+  width: 150%;
+  margin-right: 10em;
+}
+/** END OF SECOND SKILLS SECTION **/
