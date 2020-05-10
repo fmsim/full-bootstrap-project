@@ -156,3 +156,12 @@ body{
   margin-right: 10em;
 }
 /** END OF SECOND SKILLS SECTION **/
+/** FORM FILLER SECTION **/
+#form-filler{
+  background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/projects-1.jpeg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+/** END OF FORM FILLER SECTION **/
