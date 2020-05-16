@@ -165,3 +165,16 @@ body{
   background-repeat: no-repeat;
 }
 /** END OF FORM FILLER SECTION **/
+/** ABOUT BACKGROUND SECTION **/
+#about-background{
+  background-color: rgb(47, 51, 70);
+}
+#about-background .background-image{
+  background-image: url('../images/projects-1.jpeg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  border-top: 25rem solid transparent;
+  border-right: 9.375rem solid #2f3346;
+}
+/** END OF ABOUT BACKGROUND SECTION **/
