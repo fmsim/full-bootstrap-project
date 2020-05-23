@@ -178,3 +178,21 @@ body{
   border-right: 9.375rem solid #2f3346;
 }
 /** END OF ABOUT BACKGROUND SECTION **/
+/** PROGRESS BARS SECTION **/
+#progress-bars{
+  background-color: rgba(241, 80, 37, .8);
+}
+.progress-underline{
+  width: 4.375rem;
+  border: .125rem solid #ced0ce;
+}
+/** END OF PROGRESS BARS SECTION **/
+/** PROGRESS FILLER SECTION **/
+#filler-progress{
+  background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/projects-1.jpeg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+/** END OF PROGRESS FILLER SECTION **/
