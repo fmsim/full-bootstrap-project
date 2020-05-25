@@ -231,3 +231,13 @@ body{
   color: rgb(47, 51, 70);
 }
 /** END OF THIRD PROJECT SECTION **/
+/** FLEX SKILLS SECTION **/
+#flex-skills .title-underline{
+  margin: 0 0 .3125rem 0;
+  width: 3.75rem;
+}
+#flex-skills .far{
+  color: #f15025;
+  font-size: 1.875rem;
+}
+/** END OF FLEX SKILLS SECTION **/
