@@ -241,3 +241,17 @@ body{
   font-size: 1.875rem;
 }
 /** END OF FLEX SKILLS SECTION **/
+/** CHECKBOXES SECTION **/
+#checkboxes{
+  background-color: #ced0ce;
+}
+#checkboxes .far{
+  background-color: #2d3142;
+  color: #f15025;
+  font-size: 1.875rem;
+  padding: .3125rem;
+}
+#checkboxes p{
+  color: #2d3142;
+}
+/** END OF CHECKBOXES SECTION **/
