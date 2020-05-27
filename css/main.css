@@ -297,3 +297,26 @@ body{
   background-color: whitesmoke;
 }
 /** END OF SOCIAL BACKGROUND SECTION **/
+/** TEAM BRICK SECTION **/
+#team-bricks .text-holder{
+  position: relative;
+  overflow: hidden;
+}
+#team-bricks img{
+  opacity: .6;
+  transition: transform 4s ease-in-out;
+}
+#team-bricks .text-holder:hover img{
+  transform: scale(1.3);
+  opacity: 1;
+}
+#team-bricks .inner-text{
+  position: absolute;
+  left: 5%;
+  bottom: 0;
+  visibility: hidden;
+}
+#team-bricks .text-holder:hover .inner-text{
+  visibility: visible;
+}
+/** END OF TEAM BRICK SECTION **/
