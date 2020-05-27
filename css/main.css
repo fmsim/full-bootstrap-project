@@ -277,3 +277,23 @@ body{
   background-color: #f15025;
 }
 /** END OF BASIC ACCORDION SECTION **/
+/** SOCIAL BACKGROUND SECTION **/
+#social-background{
+  background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/projects-1.jpeg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#social-background .fab{
+  background-color: black;
+  color: #f15025;
+  font-size: 1.857rem;
+  padding: .625rem;
+  border: 1px solid #f15025;
+  border-radius: 40%;
+}
+#social-background .fab:hover{
+  background-color: whitesmoke;
+}
+/** END OF SOCIAL BACKGROUND SECTION **/
