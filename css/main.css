@@ -320,3 +320,43 @@ body{
   visibility: visible;
 }
 /** END OF TEAM BRICK SECTION **/
+/** DARK CARDS SECTION **/
+#dark-cards{
+  background-color: #353531;
+}
+#dark-cards .top-icon{
+  font-size: 4.375rem;
+  background-color: #353531;
+  color: #f15025;
+  border-radius: 50%;
+  margin-top: -6.25rem;
+  padding: 1.25rem;
+}
+#dark-cards .card{
+  background-color: transparent;
+  border: .125rem;
+  border-radius: 0;
+  transition: transform 4s ease-in-out;
+}
+#dark-cards .card:hover{
+  transform: translateY(-5%);
+}
+#dark-cards .list-group-item{
+  background-color: transparent;
+  color: #fff;
+  border: none;
+}
+#dark-cards .list-group-item:hover{
+  background-color: rgba(241, 80, 37, .6);
+}
+#dark-cards .card .click-button{
+  background-color: transparent;
+  color: #f15025;
+  border: .125rem solid #f15025;
+  border-radius: 0;
+}
+#dark-cards .card .click-button:hover{
+  background-color: rgba(241, 80, 37, .6);
+  color: #353531;
+}
+/** END OF DARK CARDS SECTION **/
