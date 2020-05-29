@@ -365,3 +365,17 @@ body{
   background-color: #ced0ce;
 }
 /** END OF CARD ICONS SECTION **/
+/** COLOR BLOCKS SESSION **/
+#color-blocks .col-lg-3{
+  position: relative;
+}
+#color-blocks img{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  opacity: .3;
+}
+#color-blocks .col-lg-3:hover img{
+  opacity: .7;
+}
+/** END OF COLOR BLOCKS SESSION **/
