@@ -360,3 +360,8 @@ body{
   color: #353531;
 }
 /** END OF DARK CARDS SECTION **/
+/** CARD ICONS SECTION **/
+#card-icons .card:hover{
+  background-color: #ced0ce;
+}
+/** END OF CARD ICONS SECTION **/
