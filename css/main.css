@@ -379,3 +379,31 @@ body{
   opacity: .7;
 }
 /** END OF COLOR BLOCKS SESSION **/
+/** BANNER PHOTO SECTION **/
+#banner-photo{
+  background-image: linear-gradient(rgba(255, 255, 255, .6), rgba(255, 255, 255, .6)), url('../images/projects-1.jpeg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#banner-photo .form-control{
+  background-color: transparent;
+  border: none;
+  border-bottom: .125rem solid #353531;
+  border-radius: 0;
+}
+#banner-photo input::placeholder{
+  color: #f15025;
+}
+#banner-photo .form-btn{
+  font-size: 1.5em;
+  color: #f15025;
+  border: .1875rem solid #353531;
+  border-radius: 1.25rem;
+}
+#banner-photo .form-btn:hover{
+  background-color: #f15025;
+  color: #353531;
+}
+/** END OF BANNER PHOTO SECTION **/
