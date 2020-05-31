@@ -407,3 +407,16 @@ body{
   color: #353531;
 }
 /** END OF BANNER PHOTO SECTION **/
+/** BASIC CAROUSEL SECTION **/
+#basic-carousel{
+  background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/projects-1.jpeg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#basic-carousel .far{
+  color: #f15025;
+  font-size: 3.75rem;
+}
+/** END OF BASIC CAROUSEL SECTION **/
